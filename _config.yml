@@ -1,1 +1,11 @@
+title: stackfull
+
 theme: jekyll-theme-minimal
+#theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - stackfull.com

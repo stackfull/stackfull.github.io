@@ -14,7 +14,7 @@ date by now and some of the formatting didn't survive the transfer*
 
 #### Recap
 
-In the [previous](/2013/02/16/angularjs-virtual-scrolling-part-1.html) post, we
+In the [previous](/blog/2013/02/16/angularjs-virtual-scrolling-part-1.html) post, we
 saw how virtualising a scroll window can enable the presentation of much larger
 data sets. I detailed a simple method to present a subset of data using the
 same UI components as a real list, but we saw it fall far short of
@@ -113,7 +113,7 @@ link time.
 #### To the Code
 
 We already have a module to use from the
-[previous](/2013/02/16/angularjs-virtual-scrolling-part-1.html) post, so we can
+[previous](/blog/2013/02/16/angularjs-virtual-scrolling-part-1.html) post, so we can
 add a directive to that. It would be nice if we could just override the
 necessary parts of the `ng-repeat` directive, but AngularJS directives don't
 work like that. So lets dive right in with the directive definition:

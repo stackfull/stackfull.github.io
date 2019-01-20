@@ -149,7 +149,7 @@ var mod = angular.module('sf.treeRepeat');
 ```
 
 and a parser for the repeat expression (this should be familiar from
-[before](http://blog.stackfull.com/2013/03/angularjs-virtual-scrolling-part-2/
+[before](/blog/2013/03/24/angularjs-virtual-scrolling-part-2/
 "AngularJS Virtual Scrolling – part 2"))
 
 ```javascript

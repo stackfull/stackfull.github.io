@@ -7,7 +7,6 @@ tags:
   - angularjs
   - javascript
   - programming
-  - modules
 ---
 
 *Note: I pulled this from an old abandoned site. It will be hopelessly out of

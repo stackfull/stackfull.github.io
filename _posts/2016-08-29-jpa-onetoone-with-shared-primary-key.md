@@ -2,6 +2,7 @@
 layout: post
 title: JPA OneToOne with Shared Primary Key
 date: 2016-08-29T17:19:30+00:00
+categories: [blog]
 tags:
   - java
   - spring

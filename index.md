@@ -1,1 +1,6 @@
-Hello World
+---
+layout: home
+list_title: Archive of old notes
+---
+
+

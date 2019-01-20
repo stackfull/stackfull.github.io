@@ -1,9 +1,9 @@
 title: stackfull
 
-theme: jekyll-theme-minimal
-#theme: minima
-plugins:
-  - jekyll-feed
+theme: minima
+
+# plugins:
+#   - jekyll-feed
 
 exclude:
   - Gemfile
